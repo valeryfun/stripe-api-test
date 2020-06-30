@@ -1,0 +1,6 @@
+module.exports = {
+	stripePublishableKey:
+		'pk_test_51GxWUNEERorMRI0kLCbVFYxLVuyj6oeU5Ns6XpI7hA9tWfzt01zQQfSpyAYFfB76pdnLYlQY8CzskaIU7DkEKPrC00Gamry6g3',
+	stripeSecretKey:
+		'sk_test_51GxWUNEERorMRI0ksRBW1o99VwsNl2ZSCdnHPsR9eebN9V7HOva1mUVt6f2waUaNqZp6JBlcCTgEZ8GcdyzhPJlQ00gEtoGSAO'
+}
